@@ -1,9 +1,7 @@
-<div align="center">
-Vinícius Oliveira
-Suporte Técnico N2 · Redes e Infraestrutura · Sistemas de Informação
-Atuação em suporte técnico e conectividade, com interesse em desenvolvimento de software, dados e automação.
-Projetos · Tecnologias · Minha jornada
-</div>
+<h1 align="center">Vinícius Oliveira</h1>
+<p align="center"><strong>Suporte Técnico N2 · Redes e Infraestrutura · Sistemas de Informação</strong></p>
+<p align="center">Atuação em suporte técnico e conectividade, com interesse em desenvolvimento de software, dados e automação.</p>
+<p align="center"><a href="#projetos-em-destaque">Projetos</a> · <a href="#tecnologias-e-ferramentas">Tecnologias</a> · <a href="#formação-e-aprendizado">Minha jornada</a></p>
 ---
 Sobre mim
 Trabalho com suporte técnico, diagnóstico e resolução de problemas de conectividade, atendendo demandas de redes e infraestrutura. Minha experiência inclui suporte a usuários, análise de incidentes, documentação técnica e apoio a equipes de atendimento.
@@ -36,6 +34,4 @@ Estudos e projetos práticos em suporte, redes, ferramentas de dados e desenvolv
 Contato
 Você pode acompanhar os projetos e entrar em contato pelo meu perfil no GitHub. O LinkedIn poderá ser incluído aqui após a confirmação do endereço.
 ---
-<div align="center">
-<sub>Perfil em evolução • projetos, aprendizado e documentação técnica</sub>
-</div>
+<p align="center"><sub>Perfil em evolução • projetos, aprendizado e documentação técnica</sub></p>

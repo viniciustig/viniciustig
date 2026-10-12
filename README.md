@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-github.png" alt="Banner profissional de Vinícius Gonçalves" width="100%">
+  <img src="banner-github.png.png" alt="Banner profissional de Vinícius Gonçalves" width="100%">
 </p><h1 align="center">Vinícius Gonçalves</h1>
 
 <p align="center"><strong>Suporte Técnico N2 · Redes e Infraestrutura · Sistemas de Informação</strong></p>

@@ -1,14 +1,14 @@
-<div align="center">
+<h1 align="center">Vinícius Gonçalves</h1>
 
-# Vinícius Oliveira
+<p align="center"><strong>Suporte Técnico N2 · Redes e Infraestrutura · Sistemas de Informação</strong></p>
 
-**Suporte Técnico N2 · Redes e Infraestrutura · Sistemas de Informação**
+<p align="center">Atuação em suporte técnico e conectividade, com interesse em desenvolvimento de software, dados e automação.</p>
 
-Atuação em suporte técnico e conectividade, com interesse em desenvolvimento de software, dados e automação.
-
-[Projetos](#projetos-em-destaque) · [Tecnologias](#tecnologias-e-ferramentas) · [Minha jornada](#formação-e-aprendizado)
-
-</div>
+<p align="center">
+  <a href="#projetos-em-destaque">Projetos</a> ·
+  <a href="#tecnologias-e-ferramentas">Tecnologias</a> ·
+  <a href="#formacao-e-aprendizado">Minha jornada</a>
+</p>
 
 ---
 
@@ -16,21 +16,21 @@ Atuação em suporte técnico e conectividade, com interesse em desenvolvimento 
 
 Trabalho com suporte técnico, diagnóstico e resolução de problemas de conectividade, atendendo demandas de redes e infraestrutura. Minha experiência inclui suporte a usuários, análise de incidentes, documentação técnica e apoio a equipes de atendimento.
 
-Sou estudante de **Sistemas de Informação** e utilizo projetos práticos para desenvolver minhas habilidades em tecnologia. Neste perfil, compartilho exercícios, estudos e soluções que fazem parte dessa trajetória.
+Sou estudante de Sistemas de Informação e utilizo projetos práticos para desenvolver minhas habilidades em tecnologia. Neste perfil, compartilho exercícios, estudos e soluções que fazem parte dessa trajetória.
 
 ## Tecnologias e ferramentas
 
-**Experiência no suporte e infraestrutura**
+### Experiência no suporte e infraestrutura
 
-![Windows](https://img.shields.io/badge/Windows-29354A?style=flat-square&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-29354A?style=flat-square)
 ![Redes TCP/IP](https://img.shields.io/badge/Redes-TCP%2FIP-29354A?style=flat-square)
 ![DNS](https://img.shields.io/badge/DNS-29354A?style=flat-square)
 ![DHCP](https://img.shields.io/badge/DHCP-29354A?style=flat-square)
 ![VPN](https://img.shields.io/badge/VPN-29354A?style=flat-square)
 ![GPON](https://img.shields.io/badge/GPON-29354A?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-29354A?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-29354A?style=flat-square)
 
-**Em estudo e desenvolvimento**
+### Em estudo e desenvolvimento
 
 ![Git](https://img.shields.io/badge/Git-536B89?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-536B89?style=flat-square&logo=github&logoColor=white)
@@ -50,16 +50,15 @@ Sou estudante de **Sistemas de Informação** e utilizo projetos práticos para 
 
 ## Formação e aprendizado
 
-- **Sistemas de Informação** — graduação em andamento na Uniasselvi.
-- **DIO Campus Expert — Turma 17** — participação em atividades voltadas ao desenvolvimento profissional e à organização do portfólio no GitHub.
-- Estudos e projetos práticos em suporte, redes, ferramentas de dados e desenvolvimento de software.
+- **Sistemas de Informação:** graduação em andamento na Uniasselvi.
+- **DIO Campus Expert — Turma 17:** participação em atividades voltadas ao desenvolvimento profissional e à organização do portfólio no GitHub.
+- **Estudos e projetos práticos:** suporte, redes, ferramentas de dados e desenvolvimento de software.
 
 ## Contato
 
-Você pode acompanhar os projetos e entrar em contato pelo [meu perfil no GitHub](https://github.com/viniciustig). O LinkedIn poderá ser incluído aqui após a confirmação do endereço.
+- [GitHub](https://github.com/viniciustig)
+- [LinkedIn](https://www.linkedin.com/in/viniciustig/)
 
 ---
 
-<div align="center">
-<sub>Perfil em evolução • projetos, aprendizado e documentação técnica</sub>
-</div>
+<p align="center"><sub>Perfil em evolução · projetos, aprendizado e documentação técnica</sub></p>

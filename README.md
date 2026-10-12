@@ -1,4 +1,4 @@
-<h1 align="center">Vinícius Oliveira</h1>
+<h1 align="center">Vinícius Gonçalves</h1>
 
 <p align="center"><strong>Suporte Técnico N2 · Redes e Infraestrutura · Sistemas de Informação</strong></p>
 
